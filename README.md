@@ -6,6 +6,7 @@ By using a Dual-tone multi-frequency (DTMF) decoder along with MSP430, we can co
 
 # Code
 '''
+
 #include<msp430g2553.h>
 void main(void)
 {
@@ -39,6 +40,7 @@ void main(void)
 	}
 
 }
+
 '''
 
 # References
